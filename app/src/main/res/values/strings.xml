@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Scissor.. Paper.. Rossi!!!</string>
+    <string name="play">Play!</string>
+    <string name="action_settings">Preferencias</string>
+    // Caja de texto para el nombre del usuario
+    <string name="pref_namebox_label">Name</string>
+    <string name="pref_namebox_key" translatable="false">user_name</string>
+    <string name="pref_namebox_default" translatable="false">User</string>
+    <string name="pref_namebox_cool" translatable="false">.•*•♫♪░B░E░I░N░G░•.*.•░C░O░O░L░♪♫•*•.</string>
+
+
+    //Lista de Lenguajes
+    <string name="pref_list_label">Options</string>
+    <string name="pref_list_label_1">Cool</string>
+    <string name="pref_list_label_2">Not Cool</string>
+    <string name="pref_list_key" translatable="false">list_option</string>
+    <string name="pref_list_value_1" translatable="false">option_1</string>
+    <string name="pref_list_value_2" translatable="false">option_2</string>
+
+
+    //Checkbox
+    <string name="pref_checkbox_label">Show Total Score</string>
+    <string name="pref_checkbox_key" translatable="false">total_score</string>
+
+    <!-- Summary for Checkboxes -->
+    <string name="pref_checkbox_true">Shown</string>
+    <string name="pref_checkbox_false">Hidden</string>
+
+</resources>

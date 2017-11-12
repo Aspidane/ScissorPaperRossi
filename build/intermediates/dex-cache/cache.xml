@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\0a08e9c0b5caada5a5bb8b273c2b47b99db03741\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_1592f5456435721198b689fcef1bb6559a6a3032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\842bbee58f5647687623d9e6b7b01002da6bb500\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_0e6210495f5bdb1be1420a7bb04a61741a46ee2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\a77c0b48738139d4784afcadfde0130af41c7af7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_632adf23ae793ff27f43e4e4f1b5add094e6cea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\e0ca34ef84832f0b530e8a3d3921c52c97474380\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_fb74fbf0d8aa0eb7cabb71e2c1c9f2f3fb52f57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\1d3ff38f5050429b0f8b04967a1c92eb0f81e36b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4afd8b0c08aa1a3485921c6cf3d110b35555882c">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_53cbba3dec17ddcdc10d270733a4cfb19884439d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\af89070cd89d5ffc77c1f0375d268a0f32831fdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_4b37255a7bbff4328e25385876c69b749ea9c168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\229257ac9e551d1365260c4715f52061f13e6552\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_2da0096b86a2de0fd21525e778691e9412bed06c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\b51f9a68b11703ec490ab70653bd594d9a4ea85e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_b35916568f59ca63878a2d86217496b24e53a67c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\f415ce5b008d97a97dadc0ff7da1544caf2def41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_1ef58a72e9032bdb25d00bdd5fcf82957e59ef15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\e171ce1fddf253f8ea5128825ea65b6ac3a2ee40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_c29755a12cb1f95fc8527e0f8ba891b98dde65da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aspivina\.android\build-cache\7072ffbae3a7219b12b6ccecba4717e3355b042f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\PROGRAMAS ANDROID STUDIO\ud851-Exercises-student\Lesson01-Favorite-Toys\ScissorPaperRossi\app\build\intermediates\pre-dexed\debug\classes_0a2098f508b90082812f66c1486ee5570f290fbe.jar" />
+    </item>
+
+</items>

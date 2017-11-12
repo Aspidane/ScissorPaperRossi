@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="16dp"
+    android:paddingLeft="64dp"
+    android:paddingRight="64dp"
+    tools:context="com.aspivina.scissorpaperrossi.main_game">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/name_box"
+        android:text="@string/pref_namebox_default"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Scissor, Paper or Rock, choose one!"
+        android:textSize="22sp"
+    />
+    <RadioGroup
+        android:id="@+id/radio_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp">
+        <RadioButton
+            android:id="@+id/radio_scissor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Scissor"
+            android:textSize="32sp"
+            android:paddingBottom="16dp"
+            />
+        <RadioButton
+            android:id="@+id/radio_paper"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Paper"
+            android:textSize="32sp"
+            android:paddingBottom="16dp"
+
+            />
+        <RadioButton
+            android:id="@+id/radio_rock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rock"
+            android:textSize="32sp"
+            android:paddingBottom="16dp"
+
+            />
+
+    </RadioGroup>
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="22sp"
+        android:paddingTop="16dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_computer_move"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text=""
+        android:textAlignment="viewEnd"
+        android:layout_gravity="end"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/tv_winner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/darker_gray"
+        android:paddingTop="8dp"
+        android:text=""
+        android:textColor="@color/colorAccent"
+        android:textSize="32sp" />
+
+    <TextView
+        android:id="@+id/tv_temp_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text=""
+        android:textSize="22sp" />
+
+
+</LinearLayout>
