@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Scissor.. Paper.. Rossi!!!</string>
     <string name="play">Play!</string>
-    <string name="action_settings">Preferencias</string>
+    <string name="action_settings">Preferences</string>
     // Caja de texto para el nombre del usuario
     <string name="pref_namebox_label">Name</string>
     <string name="pref_namebox_key" translatable="false">user_name</string>
