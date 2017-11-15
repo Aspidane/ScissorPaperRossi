@@ -59,3 +59,5 @@ fabric.properties
 # Built application files
 *.apk
 *.ap_
+### Get rid of gradle stuff
+.gradle/3.3
