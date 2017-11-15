@@ -200,7 +200,7 @@ public class main_game extends AppCompatActivity implements
                     }
                     default: {
                         Msg_win.setTextColor(Color.MAGENTA);
-                        S_winner="shit happened";
+                        S_winner="Stuff happened";
                         break;
                     }
                 }
