@@ -177,7 +177,8 @@ public class main_game extends AppCompatActivity implements
                 switch (winner){
                     case 1 : {
                         Msg_win.setTextColor(Color.rgb(0,204,0));
-                        S_winner="You Rock!!!";
+                        S_winner="You are the winner!!!";
+
                         results[0]+=1;
                         results[1]+=1;
                         user_option = 1;
@@ -195,12 +196,12 @@ public class main_game extends AppCompatActivity implements
                         Msg_win.setTextColor(Color.YELLOW);
                         //Msg_win.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         results[0]+=1;
-                        S_winner="Its a TY-ee!!";
+                        S_winner="Its a TYLER!!";
                         break;
                     }
                     default: {
                         Msg_win.setTextColor(Color.MAGENTA);
-                        S_winner="shit happened";
+                        S_winner="Stuff happened";
                         break;
                     }
                 }
