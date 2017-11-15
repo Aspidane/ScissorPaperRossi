@@ -195,7 +195,7 @@ public class main_game extends AppCompatActivity implements
                         Msg_win.setTextColor(Color.YELLOW);
                         //Msg_win.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
                         results[0]+=1;
-                        S_winner="Its a TY-ee!!";
+                        S_winner="Its a TYLER!!";
                         break;
                     }
                     default: {
