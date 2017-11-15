@@ -177,7 +177,7 @@ public class main_game extends AppCompatActivity implements
                 switch (winner){
                     case 1 : {
                         Msg_win.setTextColor(Color.rgb(0,204,0));
-                        S_winner="You win!!!";
+                        S_winner="You Rock!!!";
                         results[0]+=1;
                         results[1]+=1;
                         user_option = 1;
